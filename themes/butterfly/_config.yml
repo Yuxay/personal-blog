@@ -611,7 +611,7 @@ aside:
     button:
       icon: fab fa-github
       text: Github
-      link: https://github.com/Yuxay/mine-blog
+      link: https://github.com/Yuxay/personal-blog
   card_announcement:
     enable: true
     content: This is my Blog
