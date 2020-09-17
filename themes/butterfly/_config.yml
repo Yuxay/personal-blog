@@ -41,9 +41,9 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  # fab fa-github: https://github.com/xxxxx || Github
-  # fas fa-envelope: mailto:xxxxxx@gmail.com || Email
-
+  fab fa-qq: tencent://message/?uin=1013615455&Site=www.yuxay.cn&Menu=yes || QQ
+  fab fa-github: https://github.com/Yuxay/personal-blog || Github
+  fas fa-rss: https://www.yuxay.cn/atom.xml || Rss
 # search (搜索)
 # --------------------------------------
 

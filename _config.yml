@@ -97,6 +97,13 @@ ignore:
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
+plugins:
+  hexo-generator-feed
+#Feed Atom
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
 ## Themes: https://hexo.io/themes/
 theme: butterfly
 
@@ -132,7 +139,7 @@ algolia:
     - content:strip
 
 baidu_url_submit:
-  count: 1               # 提交最新的多少个链接
+  count: 100               # 提交最新的多少个链接
   host: www.yuxay.cn    # 在百度站长平台中添加的域名
   token: 78m4GoHzL81oHIUT      # 秘钥
   path: baidu_urls.txt   # 文本文档的地址， 新链接会保存在此文本文档里
