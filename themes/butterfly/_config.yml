@@ -607,7 +607,7 @@ aside:
   position: right # left or right
   card_author:
     enable: true
-    description:
+    description: 路漫漫其修远兮，吾将上下而求索。
     button:
       icon: fab fa-github
       text: Github
