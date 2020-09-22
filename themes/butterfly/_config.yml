@@ -765,7 +765,7 @@ snackbar:
   bg_dark: '#121212' # The background color of Toast Notification in dark mode
 
 # Baidu Push (百度推送)
-baidu_push: false
+baidu_push: true
 
 # https://instant.page/
 # prefetch (預加載)
@@ -812,7 +812,7 @@ inject:
     - '<style type="text/css">#toggle-sidebar {left:100px}</style>'
   # - <link rel="stylesheet" href="/xxx.css">
   bottom:
-    - <div class="aplayer no-destroy" data-id="2992214357" data-server="netease" data-type="playlist" data-fixed="true" data-mini="true" data-listFolded="false" data-order="list" data-preload="none" data-autoplay="true" muted></div>
+    - <div class="aplayer no-destroy" data-id="5240725959" data-server="netease" data-type="playlist" data-fixed="true" data-mini="true" data-listFolded="false" data-order="random" data-preload="none" data-autoplay="true" muted></div>
     # - <script src="xxxx"></script>
 
 # CDN
