@@ -127,9 +127,9 @@ aplayer:
   #externalLink: http://xxx/aplayer.min.js       # 老版本参数，功能与参数 cdn 相同meting: true
 
 algolia:
-  applicationID: L85OBA6XOX
-  apiKey: 808b15099195b367e7fc1bde2b238c9e
-  adminApiKey: 3cc2147d2c2d83ac7c1f237a4fd4ac7d
+  applicationID: I75DGJOBQA
+  apiKey: 7abf84afb972f0d999dfe6dd8354c642
+  adminApiKey: 10dab23daed28b97b2306cb56c44cc88
   indexName: CodeRookie
   chunkSize: 5000
   fields:
