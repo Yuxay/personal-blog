@@ -3,7 +3,6 @@ title: JS调起APP，没有app则跳转至应用市场
 date: 2020-04-21 11:08:35
 tags: js
 categories: js
-cover: https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1767203791,1848851172&fm=26&gp=0.jpg
 keywords: 'js,Javascript'
 aplayer: true
 ---

@@ -3,7 +3,6 @@ title: 自用VScode插件
 date: 2018-10-30 09:07:20
 tags: 编辑器
 categories: 插件
-cover: https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1448783166,3181052129&fm=26&gp=0.jpg
 keywords: '编辑器,vscode'
 aplayer: true
 ---

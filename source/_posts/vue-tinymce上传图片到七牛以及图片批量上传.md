@@ -7,7 +7,6 @@ tags:
     - 七牛云
     - 图片上传
 categories: vue
-cover: https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3478734330,3971524754&fm=26&gp=0.jpg
 keywords: 'vue,tinymce,七牛云,图片上传'
 aplayer: true
 ---

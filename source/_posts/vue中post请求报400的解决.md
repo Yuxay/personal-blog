@@ -5,7 +5,6 @@ tags:
     - vue
     - axios
 categories: vue
-cover: https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1126398159,230316056&fm=26&gp=0.jpg
 keywords: 'vue,axios'
 aplayer: true
 ---

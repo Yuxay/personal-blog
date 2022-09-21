@@ -5,7 +5,6 @@ tags:
     - vue
     - mint-ui
 categories: vue
-cover: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=313184173,121254158&fm=26&gp=0.jpg
 keywords: 'vuye,mint,mint-ui'
 aplayer: true
 ---

@@ -5,7 +5,6 @@ tags:
     - vue
     - element-ui
 categories: vue
-cover: https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2140697723,2949229006&fm=26&gp=0.jpg
 keywords: 'vue,element-ui'
 aplayer: true
 ---

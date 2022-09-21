@@ -3,7 +3,6 @@ title: Vue导出页面为word
 date: 2019-05-11 10:27:14
 tags: vue
 categories: vue
-cover: https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2225970102,3666273004&fm=26&gp=0.jpg
 keywords: 'vue'
 aplayer: true
 ---

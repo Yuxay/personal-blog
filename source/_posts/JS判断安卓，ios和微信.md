@@ -3,7 +3,6 @@ title: JS判断安卓，ios和微信
 date: 2019-04-28 16:33:26
 tags: js
 categories: js
-cover: https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1619099098,2477854004&fm=26&gp=0.jpg
 keywords: 'js,Javascript'
 aplayer: true
 ---

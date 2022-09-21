@@ -6,7 +6,6 @@ tags:
     - tinymce
     - 富文本编辑器
 categories: vue
-cover: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3963915081,2771048512&fm=26&gp=0.jpg
 keywords: 'vue,tinymce,富文本编辑器'
 aplayer: true
 ---

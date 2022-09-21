@@ -3,7 +3,6 @@ title: CropperJS中文文档（翻译自Cropper.js原英文文档）
 date: 2021-11-05 14:30:25
 tags: js
 categories: js
-cover: https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=280591509,585529894&fm=26&gp=0.jpg
 keywords: 'js,JavaScript,cropper.js'
 aplayer: true
 ---

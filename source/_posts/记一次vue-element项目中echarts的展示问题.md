@@ -6,7 +6,6 @@ tags:
     - element-ui
     - echarts
 categories: vue
-cover: https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1020757406,2710278676&fm=26&gp=0.jpg
 keywords: 'vue,element-ui,echarts'
 aplayer: true
 ---

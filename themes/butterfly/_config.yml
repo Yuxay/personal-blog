@@ -128,10 +128,12 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    # - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
-    - https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/cover/default_bg.png
-    - https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/cover/default_bg2.png
-    - https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/cover/default_bg3.png
+    - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
+    - https://s1.ax1x.com/2022/09/21/xiBx58.jpg
+    - https://s1.ax1x.com/2022/09/21/xiDSPS.jpg
+    - https://s1.ax1x.com/2022/09/21/xiDp8g.jpg
+    - https://s1.ax1x.com/2022/09/21/xiD92Q.jpg
+    - https://s1.ax1x.com/2022/09/21/xiDCvj.jpg
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
@@ -589,7 +591,7 @@ subtitle:
   # 如果有英文雙引號' " ',請使用轉義字元 &quot;
   # 開頭不允許轉義字元，如需要，請把整個句子用雙引號包住
   # 如果關閉打字效果，subtitle只會顯示sub的第一行文字
-  sub: 
+  sub:
     - 不积跬步，无以至千里；不积小流，无以成江海。
     - 每一件自己觉得值得的事都要不留余力的去做。
     - 梦想不大， 道路很长，开始了就别停下。
