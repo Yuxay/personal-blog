@@ -111,7 +111,7 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@148.70.41.51:/home/git/repos/blog.git
+  repo: git@1.14.121.189:/home/git/repos/blog.git
   branch: master
 
 #aplayer
