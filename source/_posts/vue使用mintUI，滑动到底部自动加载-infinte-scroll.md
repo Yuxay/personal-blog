@@ -5,7 +5,7 @@ tags:
     - vue
     - mint-ui
 categories: vue
-keywords: 'vuye,mint,mint-ui'
+keywords: 'vue,mint,mint-ui'
 aplayer: true
 ---
 **做此项目与官网的区别在于，数据总数，页码总数是由后台返回，而非前端设置**
